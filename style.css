@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.visual {
+    background-image: url(./fadeimg/visual_bg.jpg);
+}
+.visual .inner {
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+    /* background-color: skyblue; */
+    height: 646px;
+}
+.visual .title {
+    position: absolute;
+    top: 88px;
+    left: -10px;
+    /* background-color: lightsalmon; */
+}
+.visual .pcup1 {
+    position: absolute;
+    bottom: 0;
+    right: -47px;
+}
+.visual .cup1.text {
+    position: absolute;
+    top: -30px;
+    left: -120px;
+}
+.visual .pcup2 {
+    position: absolute;
+    bottom: 0;
+    right: 162px;
+}
+.visual .cup2.text {
+    position: absolute;
+    top: 150px;
+    left:-240px;
+}
+.visual .pspoon {
+    position: absolute;
+    bottom: 0;
+    left: 275px;
+}
